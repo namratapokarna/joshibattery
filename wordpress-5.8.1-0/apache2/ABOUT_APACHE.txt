@@ -14,6 +14,7 @@ and documentation to the project.
 This file is intended to briefly describe the history of the Apache Group (as 
 it was called in the early days), recognize the many contributors, and explain
 how you can join the fun too.
+
 In February of 1995, the most popular server software on the Web was the
 public domain HTTP daemon developed by Rob McCool at the National Center
 for Supercomputing Applications, University of Illinois, Urbana-Champaign.
