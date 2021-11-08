@@ -1,0 +1,224 @@
+2021-10-01 12:15:56 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-01 12:15:56 0 [Note] InnoDB: Uses event mutexes
+2021-10-01 12:15:56 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-01 12:15:56 0 [Note] InnoDB: Number of pools: 1
+2021-10-01 12:15:56 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-01 12:15:56 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-01 12:15:56 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-01 12:15:56 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-01 12:15:56 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-01 12:15:56 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-01 12:15:56 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-01 12:15:56 0 [Note] InnoDB: Waiting for purge to start
+2021-10-01 12:15:56 0 [Note] InnoDB: 10.4.21 started; log sequence number 60967; transaction id 20
+2021-10-01 12:15:56 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-01 12:15:56 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-01 12:15:56 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-01 12:15:56 0 [Note] InnoDB: Buffer pool(s) load completed at 211001 12:15:56
+2021-10-01 12:15:56 0 [Note] Reading of all Master_info entries succeeded
+2021-10-01 12:15:56 0 [Note] Added new Master_info '' to hash table
+2021-10-01 12:15:56 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-01 12:16:32 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe (initiated by: root[root] @ localhost [127.0.0.1]): Normal shutdown
+2021-10-01 12:16:32 0 [Note] Event Scheduler: Purging the queue. 0 events
+2021-10-01 12:16:32 0 [Note] InnoDB: FTS optimize thread exiting.
+2021-10-01 12:16:32 0 [Note] InnoDB: Starting shutdown...
+2021-10-01 12:16:32 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-01 12:16:32 0 [Note] InnoDB: Buffer pool(s) dump completed at 211001 12:16:32
+2021-10-01 12:16:33 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-10-01 12:16:33 0 [Note] InnoDB: Shutdown completed; log sequence number 60976; transaction id 21
+2021-10-01 12:16:33 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: Shutdown complete
+
+2021-10-01 12:17:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-01 12:17:25 0 [Note] InnoDB: Uses event mutexes
+2021-10-01 12:17:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-01 12:17:25 0 [Note] InnoDB: Number of pools: 1
+2021-10-01 12:17:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-01 12:17:25 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-01 12:17:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-01 12:17:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-01 12:17:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-01 12:17:25 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-01 12:17:25 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-01 12:17:25 0 [Note] InnoDB: 10.4.21 started; log sequence number 60976; transaction id 20
+2021-10-01 12:17:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-01 12:17:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-01 12:17:25 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-01 12:17:25 0 [Note] InnoDB: Buffer pool(s) load completed at 211001 12:17:25
+2021-10-01 12:17:25 0 [Note] Reading of all Master_info entries succeeded
+2021-10-01 12:17:25 0 [Note] Added new Master_info '' to hash table
+2021-10-01 12:17:25 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-01 14:56:16 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 18% 47% 65% 91% 100% (0.0 seconds); tables to flush: 2 1 0
+ (0.0 seconds); 
+2021-10-01 14:56:16 0 [Note] mysqld.exe: Aria engine: recovery done
+2021-10-01 14:56:16 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-01 14:56:16 0 [Note] InnoDB: Uses event mutexes
+2021-10-01 14:56:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-01 14:56:16 0 [Note] InnoDB: Number of pools: 1
+2021-10-01 14:56:16 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-01 14:56:16 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-01 14:56:16 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-01 14:56:16 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=892166
+2021-10-01 14:56:16 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-01 14:56:16 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-10-01 14:56:16 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-01 14:56:16 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-01 14:56:16 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-01 14:56:16 0 [Note] InnoDB: Waiting for purge to start
+2021-10-01 14:56:16 0 [Note] InnoDB: 10.4.21 started; log sequence number 892175; transaction id 579
+2021-10-01 14:56:16 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-01 14:56:16 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-01 14:56:16 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-01 14:56:16 0 [Note] InnoDB: Buffer pool(s) load completed at 211001 14:56:16
+2021-10-01 14:56:16 0 [Note] Reading of all Master_info entries succeeded
+2021-10-01 14:56:16 0 [Note] Added new Master_info '' to hash table
+2021-10-01 14:56:16 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-01 15:44:49 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-01 15:44:49 0 [Note] InnoDB: Uses event mutexes
+2021-10-01 15:44:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-01 15:44:49 0 [Note] InnoDB: Number of pools: 1
+2021-10-01 15:44:49 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-01 15:44:49 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-01 15:44:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-01 15:44:49 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=898624
+2021-10-01 15:44:49 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-01 15:44:49 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-10-01 15:44:49 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-01 15:44:49 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-01 15:44:49 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-01 15:44:49 0 [Note] InnoDB: 10.4.21 started; log sequence number 898633; transaction id 590
+2021-10-01 15:44:49 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-01 15:44:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-01 15:44:49 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-01 15:44:49 0 [Note] InnoDB: Buffer pool(s) load completed at 211001 15:44:49
+2021-10-01 15:44:49 0 [Note] Reading of all Master_info entries succeeded
+2021-10-01 15:44:49 0 [Note] Added new Master_info '' to hash table
+2021-10-01 15:44:49 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-01 15:45:31 8 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:31 9 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:34 10 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:34 11 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:35 12 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:35 13 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:41 14 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:41 15 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:43 16 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:43 17 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:43 18 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:43 19 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:43 20 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:43 21 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:44 22 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:44 23 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:44 24 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:44 25 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-01 15:45:44 26 [Warning] Access denied for user 'pma'@'localhost' (using password: NO)
+2021-10-01 15:45:44 27 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2021-10-05 17:51:39 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2021-10-05 17:51:39 0 [Note] InnoDB: FTS optimize thread exiting.
+2021-10-05 17:51:39 0 [Note] Event Scheduler: Purging the queue. 0 events
+2021-10-05 17:51:39 0 [Note] InnoDB: Starting shutdown...
+2021-10-05 17:51:39 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-05 17:51:39 0 [Note] InnoDB: Buffer pool(s) dump completed at 211005 17:51:39
+2021-10-05 17:51:39 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-10-05 17:51:39 0 [Note] InnoDB: Shutdown completed; log sequence number 42804318; transaction id 28459
+2021-10-05 17:51:39 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: Shutdown complete
+
+2021-10-05 17:52:23 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-05 17:52:23 0 [Note] InnoDB: Uses event mutexes
+2021-10-05 17:52:23 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-05 17:52:23 0 [Note] InnoDB: Number of pools: 1
+2021-10-05 17:52:23 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-05 17:52:23 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-05 17:52:23 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-05 17:52:23 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-05 17:52:23 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-05 17:52:23 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-05 17:52:23 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-05 17:52:23 0 [Note] InnoDB: Waiting for purge to start
+2021-10-05 17:52:23 0 [Note] InnoDB: 10.4.21 started; log sequence number 42804318; transaction id 28460
+2021-10-05 17:52:23 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-05 17:52:23 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-05 17:52:23 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-05 17:52:23 0 [Note] Reading of all Master_info entries succeeded
+2021-10-05 17:52:23 0 [Note] Added new Master_info '' to hash table
+2021-10-05 17:52:23 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-05 17:52:23 0 [Note] InnoDB: Buffer pool(s) load completed at 211005 17:52:23
+2021-10-12 10:17:24 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-12 10:17:24 0 [Note] InnoDB: Uses event mutexes
+2021-10-12 10:17:24 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-12 10:17:24 0 [Note] InnoDB: Number of pools: 1
+2021-10-12 10:17:24 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-12 10:17:24 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-12 10:17:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-12 10:17:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=126372127
+2021-10-12 10:17:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-12 10:17:25 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-10-12 10:17:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-12 10:17:25 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-12 10:17:25 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-12 10:17:25 0 [Note] InnoDB: Waiting for purge to start
+2021-10-12 10:17:25 0 [Note] InnoDB: 10.4.21 started; log sequence number 126372136; transaction id 81859
+2021-10-12 10:17:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-12 10:17:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-12 10:17:25 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-12 10:17:25 0 [Note] Reading of all Master_info entries succeeded
+2021-10-12 10:17:25 0 [Note] Added new Master_info '' to hash table
+2021-10-12 10:17:25 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-12 10:17:25 0 [Note] InnoDB: Buffer pool(s) load completed at 211012 10:17:25
+2021-10-27 16:56:35 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-10-27 16:56:35 0 [Note] InnoDB: Uses event mutexes
+2021-10-27 16:56:35 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-10-27 16:56:35 0 [Note] InnoDB: Number of pools: 1
+2021-10-27 16:56:35 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-10-27 16:56:35 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-10-27 16:56:35 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-10-27 16:56:35 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=167666609
+2021-10-27 16:56:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-10-27 16:56:36 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-10-27 16:56:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-10-27 16:56:36 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-10-27 16:56:36 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-10-27 16:56:36 0 [Note] InnoDB: Waiting for purge to start
+2021-10-27 16:56:36 0 [Note] InnoDB: 10.4.21 started; log sequence number 167666618; transaction id 106736
+2021-10-27 16:56:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-10-27 16:56:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-10-27 16:56:36 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-10-27 16:56:36 0 [Note] Reading of all Master_info entries succeeded
+2021-10-27 16:56:36 0 [Note] Added new Master_info '' to hash table
+2021-10-27 16:56:36 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-10-27 16:56:36 0 [Note] InnoDB: Buffer pool(s) load completed at 211027 16:56:36
+2021-10-28 15:48:06 345 [Warning] Aborted connection 345 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2021-10-28 15:48:06 343 [Warning] Aborted connection 343 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2021-10-28 15:48:06 344 [Warning] Aborted connection 344 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2021-11-01 17:37:55 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-11-01 17:37:55 0 [Note] InnoDB: Uses event mutexes
+2021-11-01 17:37:55 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-11-01 17:37:55 0 [Note] InnoDB: Number of pools: 1
+2021-11-01 17:37:55 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2021-11-01 17:37:55 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-11-01 17:37:55 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-11-01 17:37:55 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=184245227
+2021-11-01 17:37:55 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2021-11-01 17:37:55 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-11-01 17:37:55 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-11-01 17:37:55 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-11-01 17:37:55 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-11-01 17:37:55 0 [Note] InnoDB: Waiting for purge to start
+2021-11-01 17:37:55 0 [Note] InnoDB: 10.4.21 started; log sequence number 184245236; transaction id 117749
+2021-11-01 17:37:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-11-01 17:37:55 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-5.8.1-0\mariadb\data\ib_buffer_pool
+2021-11-01 17:37:55 0 [Note] Server socket created on IP: '127.0.0.1'.
+2021-11-01 17:37:56 0 [Note] Reading of all Master_info entries succeeded
+2021-11-01 17:37:56 0 [Note] Added new Master_info '' to hash table
+2021-11-01 17:37:56 0 [Note] C:\Bitnami\WORDPR~1.1-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2021-11-01 17:37:56 0 [Note] InnoDB: Buffer pool(s) load completed at 211101 17:37:56
+2021-11-08 13:09:27 8 [Note] Detected table cache mutex contention at instance 1: 20% waits. Additional table cache instance activated. Number of instances after activation: 2.
